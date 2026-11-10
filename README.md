@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Mantesh B. 👋<br><br>### Aspiring Penetration Tester | Ethical Hacking | Cybersecurity Student<br><br>I'm a computer science engineering student interested in **penetration testing, ethical hacking, web application security, and network security**.<br><br>I'm building my cybersecurity foundations through hands-on practice, structured learning, and security projects in authorized lab environments.<br><br>- 🔐 Interested in penetration testing and vulnerability assessment<br>- 🌐 Learning web security, HTTP/HTTPS, networking, and Linux<br>- 🐍 Developing Python programming skills<br>- 🧪 Practicing cybersecurity concepts in legal labs and CTF environments<br>- 🎯 Goal: Become a skilled penetration tester / ethical hacker<br><br>---<br><br>## 🧰 Skills & Technologies<br><br>**Programming**<br><br>- Python<br>- HTML<br>- CSS<br><br>**Cybersecurity—Learning**<br><br>- Ethical hacking fundamentals<br>- OWASP Top 10<br>- SQL Injection fundamentals<br>- Cross-Site Scripting (XSS) fundamentals<br>- Authentication and authorization concepts<br>- Vulnerability assessment fundamentals<br><br>**Networking**<br><br>- TCP/IP<br>- DNS<br>- HTTP/HTTPS<br>- IP addressing and ports<br>- TCP and UDP<br><br>**Operating Systems & Tools**<br><br>- Windows<br>- Linux fundamentals<br>- Git and GitHub<br>- Visual Studio Code<br><br>*Skills listed here represent learning and foundational knowledge, not professional expertise.*<br><br>---<br><br>## 📚 Currently Learning<br><br>- Python programming and scripting<br>- Linux command line<br>- Networking fundamentals<br>- Web application security<br>- OWASP Top 10 vulnerabilities<br>- Burp Suite fundamentals<br>- Nmap fundamentals<br>- Wireshark and network traffic analysis<br>- CTF problem-solving<br><br>---<br><br>## 🛠️ Cybersecurity Portfolio<br><br>| Project                                        | Status     |<br>| ---------------------------------------------- | ---------- |<br>| Web Application Vulnerability Scanner (Python) | 📝 Planned |<br>| Network Reconnaissance Lab                     | 📝 Planned |<br>| Linux Log Analysis Tool                        | 📝 Planned |<br>| OWASP Juice Shop Security Testing Notes        | 📝 Planned |<br><br>I will update each project’s status only after I begin, test, and document the work.<br><br>---<br><br>## 🧪 Practice & Learning Platforms<br><br>- [PortSwigger Web Security Academy](https://portswigger.net/web-security)<br>- [TryHackMe](https://tryhackme.com/)<br>- [OverTheWire](https://overthewire.org/wargames/)<br>- [OWASP](https://owasp.org/)<br>- [Cisco Networking Academy](https://www.netacad.com/)<br><br>---<br><br>## 📊 GitHub Statistics<br><br>Cybersecurity—Learning<br><br><br><br>---<br><br>## 🤝 Connect With Me<br><br>- **LinkedIn:** [Mantesh B.](https://www.linkedin.com/in/mantesh-b-40513b428/)<br>- **GitHub:** [@ManteshB2006](https://github.com/ManteshB2006)<br><br>---<br><br>> Learn. Explore. Test. Secure.<br><br>*All security testing is performed only on systems I own or have explicit permission to assess.*<br>
 
-<!--
-**ManteshB2006/ManteshB2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mantesh-b-40513b428/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:github805official@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ManteshB2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ManteshB2006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManteshB2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ManteshB2006&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
